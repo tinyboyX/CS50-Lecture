@@ -1,0 +1,16 @@
+.name{
+    font-weight: bold;
+    color: yellow;
+}
+#top{
+    color: blue;
+    font-size: 100px;
+}
+#mid{
+    color: red;
+    font-size: 50px;
+}
+#bot{
+    color: green;
+    font-size: 25px;
+}

@@ -1,10 +1,15 @@
 table{
     border: 2px solid black;
     border-collapse: collapse;
+    width: 200px;
 }
 tr,th,td{
     border: 1px solid black;
+    text-align: center;
 }
 th{
     background-color: aliceblue; 
+}
+td{
+    color: red;
 }
