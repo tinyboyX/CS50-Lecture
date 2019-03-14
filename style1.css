@@ -1,0 +1,10 @@
+div{
+    background-color: teal;
+    width: 1000px;
+    height: 400px;
+    margin: 30px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: bold;
+}
